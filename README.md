@@ -12,8 +12,17 @@ Details of the project:
 
 Machine learning Data is found in the following location.
 
-URL:- https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+URL:- https://www.kaggle.com/c/msk-redefining-cancer-treatment
 
+References: 
+
+1. https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html
+
+2. http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+
+3. http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
+
+4. https://jessesw.com/XG-Boost/
 
 
 
